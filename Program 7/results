@@ -1,0 +1,12 @@
+Alexander Gonzalez Ramirez
+Total Integers: 20000
+Bubble Sort Time      :    0.397021375 seconds
+Selection Sort Time   :    0.138299209 seconds
+Collection Sort Time  :    0.019105875 seconds
+Insertion Sort Time   :    0.0539795 seconds
+
+Total Strings: 10000
+Bubble Sort Time      :    0.463018416 seconds
+Selection Sort Time   :    0.174336792 seconds
+Collection Sort Time  :    0.009226291 seconds
+Insertion Sort Time   :    0.001122708 seconds
