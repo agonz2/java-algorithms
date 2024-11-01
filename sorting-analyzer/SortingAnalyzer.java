@@ -1,13 +1,8 @@
-/*
- * Alexander Gonzalez Ramirez
- * Program #7 - Insertion Sort
- */
-
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Program7 {
+public class SortingAnalyzer {
     static int n;
     public static void intInsertionSort(int[] array){
         n = array.length;

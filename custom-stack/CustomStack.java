@@ -1,11 +1,6 @@
-/*
- * Alexander Gonzalez Ramirez
- * Program #4 - Linked Lists
- */
-
 import java.io.*;
 
-public class Program4 {
+public class CustomStack {
     public static void main(String[] args) {
         MyLinkedStack stack = new MyLinkedStack();
         File program4Out = new File("Program4");

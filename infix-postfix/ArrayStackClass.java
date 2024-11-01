@@ -1,8 +1,3 @@
-/*
- * Alexander Gonzalez Ramirez
- * Program #3 - Stacks: Infix to Postfix
- */
-
 public class ArrayStackClass {
     public char[] stack;
     private int topElement = -1;

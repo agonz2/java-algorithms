@@ -1,0 +1,23 @@
+Alexander Gonzalez Ramirez
+
+[CUSTOM HASH TABLE]
+Time           :    0.066428542 seconds
+Size/Nodes     :    20011
+Load Factor    :    0.6533406626355505
+
+[DEFAULT HASH MAP]
+Time           :    0.023482 seconds
+Size/Nodes     :    9645
+Resized capacity from default capacity of 16 not available in java.util.HashMap methods to determine load factor
+
+[HASH MAP 2]
+Time           :    0.007585167 seconds
+Size/Nodes     :    9645
+Load Factor    :    0.9645
+The custom hash table has fewer collisions than this hash map due to a larger load factor
+
+[HASH MAP 3]
+Time           :    0.005618833 seconds
+Size/Nodes     :    9645
+Load Factor    :    0.48225
+This hash map has fewer collisions than the custom hash table due to a smaller load factor

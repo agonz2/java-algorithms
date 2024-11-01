@@ -1,8 +1,3 @@
-/*
- * Alexander Gonzalez Ramirez
- * Program #8 - BST Trees
- */
-
 import java.io.*;
 import java.util.ArrayList;
 

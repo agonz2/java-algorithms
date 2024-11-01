@@ -1,8 +1,3 @@
-/*
- * Alexander Gonzalez Ramirez
- * Program #4 - Linked Lists
- */
-
 import java.util.EmptyStackException;
 
 class Node{

@@ -1,11 +1,6 @@
-/*
- * Alexander Gonzalez Ramirez
- * Program #3 - Stacks: Infix to Postfix
- */
-
 import java.io.*;
 
-public class Program3 {
+public class InfixPostfix {
     public static void main(String[] args) {
         ArrayStackClass stack= new ArrayStackClass(32);
         File program3Out = new File("Program3");

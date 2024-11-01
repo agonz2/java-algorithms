@@ -1,13 +1,8 @@
-/*
- * Alexander Gonzalez Ramirez
- * Program #6 - Sorting Arrays
- */
-
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Program6 {
+public class SortingAlgorithms {
     public static void intBubbleSort(int[] array) {
         int temp;
         int n = array.length;

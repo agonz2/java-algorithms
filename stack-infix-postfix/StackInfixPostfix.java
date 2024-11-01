@@ -1,12 +1,7 @@
-/*
- * Alexander Gonzalez Ramirez
- * Program #5 - The easy way
- */
-
 import java.io.*;
 import java.util.Stack;
 
-public class Program5 {
+public class StackInfixPostfix {
     public static int precedence(char operand) {
         if (operand == '+' || operand == '-') {
             return 1;

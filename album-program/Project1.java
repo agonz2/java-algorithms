@@ -1,8 +1,3 @@
-/*
- * Alexander Gonzalez Ramirez
- * Program #1 - Classes and Java Review
- */
-
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
